@@ -1,5 +1,5 @@
 # codebugs
-Codefundo++ 2019 Project
+<h1>Codefundo++ 2019 Project</h1>
 The web application developed by the team helps citizens of a country to smoothly and quickly register as voters, and cast thier vote in a tamper-proof secure way by using azure blockchain.
 
 The web app has two basic functionalities:-
