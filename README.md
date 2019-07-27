@@ -18,5 +18,5 @@ Both these functionalities make use of Azure Blockchain through smart contracts.
 1. Speed up the process of registering as a voter.<br>
 2. Make the voters list tamperproof.<br>
 3. Allow eligible voters to vote remotely.<br>
-4. Use of Azure Blockchain to make the system secure.<br>
+4. Use Azure Blockchain to make the system secure.<br>
 5. Quickly decalre results of an election after it ends.<br>
