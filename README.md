@@ -1,6 +1,6 @@
 # codebugs
 
-<h1>Codefundo++ 2019 Project</h1>
+<h3>Codefundo++ 2019 Project</h3>
 The decentralized web application developed by the team using Azure Blockchain helps citizens of a country to smoothly and quickly register as voters, and cast thier vote in a tamper-proof secure way.
 <hr>
 
